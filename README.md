@@ -4,28 +4,6 @@
   Hi 👋, I'm Omar
 </h1>
 
-<h3 align="center">
-  مطور ويب شغوف من مصر 🇪🇬
-  <br/>
-  A passionate web developer from Egypt
-</h3>
-
-<div align="center">
-  
-  🌱 أتعلم حاليًا: **تطوير الويب الكامل (Full Stack)**  
-  🌱 Currently learning: **Full Stack Web Development**  
-  
-  💬 اسألني عن: **Python, PHP, JavaScript, HTML/CSS**  
-  💬 Ask me about: **Python, PHP, JavaScript, HTML/CSS**  
-  
-  📫 كيف تصل إلي: **omar.abouelkhier.dev@gmail.com**  
-  📫 How to reach me: **omar.abouelkhier.dev@gmail.com**  
-  
-  👨‍💻 جميع مشاريعي: [github.com/OmarAbouelkheirr](https://github.com/OmarAbouelkheirr)  
-  👨‍💻 All my projects: [github.com/OmarAbouelkheirr](https://github.com/OmarAbouelkheirr)  
-
-</div>
-
 ---
 
 ### 🔗 تواصل معني | Connect with me:
