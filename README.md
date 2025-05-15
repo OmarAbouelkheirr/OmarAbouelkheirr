@@ -6,7 +6,7 @@
 
 ---
 
-### 🔗 تواصل معني | Connect with me:
+### 🔗 تواصل معي | Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/omar-abouelkhier-eg" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠 لغات وتقنياتي | Languages & Tools:
+### 🛠 اللغات والتقنيات | Languages & Tools:
 <p align="left">
   <!-- Web Development -->
   <a href="https://www.w3.org/html/" target="_blank"> 
