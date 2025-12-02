@@ -1,71 +1,85 @@
-<h1 align="center"> 
-  مرحباً 👋، أنا عمر 
-  <br/>
-  Hi 👋, I'm Omar
-</h1>
+<h1 align="center">Hi 👋, I'm Nour Eldeen</h1>
 
----
+<br/>
 
-### 🔗 تواصل معي | Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/omar-abouelkhier-eg" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/c/3mora tech" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🛠 اللغات والتقنيات | Languages & Tools:
-<p align="left">
-  <!-- Web Development -->
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-  </a>
-  
-  <!-- Backend -->
-  <a href="https://www.php.net" target="_blank"> 
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-  </a>
-  
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  </a>
-  
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
-  </a>
-</p>
-
----
-
-### 📊 إحصائيات جيتهاب | GitHub Stats:
-<div align="center">
-  
-  ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarAbouelkheirr&show_icons=true&theme=radical)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAbouelkheirr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
+<!-- About Me -->
+<div align="center" style="max-width:850px;margin:0 auto;">
+  <h3>🌟 About Me</h3>
+  <p style="line-height:1.6;">
+I'm a Software Engineer experienced in architecting web solution, full-stack desktop systems, and automation tools/bots.
+I work mainly with C++, C#, and .NET, applying clean architecture principles and strong problem-solving skills to deliver reliable and efficient software.
+  </p>
 </div>
+
+<!-- spacer -->
+<div style="height:28px"></div>
+
+### Tech & Tools
+<div align="center" style="margin-bottom:18px;">
+  <!-- Desktop / Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="56" alt="cpp logo" style="margin:0 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="56" alt="csharp logo" style="margin:0 10px"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="56" alt=".net logo" style="margin:0 10px"/>
+
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="56" alt="sql server logo" style="margin:0 10px"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="56" alt="mongodb logo" style="margin:0 10px"/>
+
+  <!-- Web basics -->
+  <img src="https://skillicons.dev/icons?i=html" height="56" alt="html logo" style="margin:0 10px"/>
+  <img src="https://skillicons.dev/icons?i=css" height="56" alt="css logo" style="margin:0 10px"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="56" alt="bootstrap logo" style="margin:0 10px"/>
+
+
+  <!-- Other languages -->
+  <img src="https://skillicons.dev/icons?i=py" height="56" alt="python logo" style="margin:0 10px"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="56" alt="docker logo" style="margin:0 10px"/>
+  <img src="https://skillicons.dev/icons?i=git" height="56" alt="git logo" style="margin:0 10px"/>
+
+
+</div>
+<br/>
+<br/>
+
+
+<!-- spacer (بین البلوكس) -->
+<div style="height:26px"></div>
+
+<!-- Badges / Stats -->
+<div align="center" style="margin-bottom:22px;">
+  <img src="https://streak-stats.demolab.com?user=NourEldeenMahmoud&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph" style="margin:0 10px" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=NourEldeenMahmoud&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="140" alt="trophy graph" style="margin:0 10px" />
+  <br/>
+</div>
+
+<!-- bigger spacer above pacman (this controls the white line gap) -->
+<div style="height:28px"></div>
+
+<!-- Pacman contribution graph (centered) -->
+<div align="center" style="margin-bottom:26px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NourEldeenMahmoud/NourEldeenMahmoud/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NourEldeenMahmoud/NourEldeenMahmoud/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NourEldeenMahmoud/NourEldeenMahmoud/output/pacman-contribution-graph.svg" style="max-width:100%;height:auto;border-radius:4px;box-shadow:0 6px 18px rgba(0,0,0,0.35);" />
+  </picture>
+</div>
+
+<!-- final spacer before footer/contact -->
+<div style="height:28px"></div>
+
+
+<hr style="border:0;height:2px;background:linear-gradient(90deg,#6C7BFF,#3b82f6,#06b6d4);border-radius:4px;margin:32px 0;">
+
+<!-- CONTACT (moved to the bottom) -->
+### 🤝 Let's Connect
+<div align="center">
+  <a href="mailto:noureldeendev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://www.linkedin.com/in/nour-eldeen-eg/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://github.com/NourEldeenMahmoud"><img src="https://skillicons.dev/icons?i=github"></a>
+</div>
+
+<h3 align="center">Crafting elegant solutions through clean, efficient code.</h3>
+
+
