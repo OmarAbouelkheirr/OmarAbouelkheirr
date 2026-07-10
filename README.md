@@ -1,51 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Omar%20Abouelkhier&fontAlignY=40&fontSize=55&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Omar%20Abouelkhier&fontAlignY=40&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 
 # 👋 Hi, I'm Omar Abouelkhier
 
-### Backend Engineer • .NET Developer • SaaS Builder
+### Software Engineer | Full-Stack .NET Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Scalable+Backend+Systems;ASP.NET+Core+Developer;Docker+%7C+AWS+%7C+PostgreSQL;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineer;Full-Stack+.NET+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I'm a Computer Science student passionate about building production-ready backend systems.
+I'm a **Software Engineer** passionate about building modern web applications using **ASP.NET Core** and the .NET ecosystem.
 
-I enjoy designing scalable APIs, automating deployments, and transforming ideas into real SaaS products.
-
-Currently focused on:
-
-- 🏋️ Building a Fitness SaaS Platform
-- 🤖 Telegram Bots & Automation
-- 🐳 Docker & VPS Deployment
-- ☁️ AWS Cloud
-- 🏗 Clean Architecture
+I enjoy designing clean architectures, building scalable REST APIs, and continuously learning new technologies.
 
 ---
 
-# 🛠 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=dotnet,cs,python,js,ts,postgres,mysql,redis,docker,git,github,linux,aws,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs,js,ts,html,css,bootstrap,tailwind,postgres,mysql,docker,git,github,linux,aws,vscode&perline=8"/>
 
 </div>
 
 ---
 
-# ⚙️ Backend Expertise
+## ⚡ Backend Expertise
 
 ```text
-✔ REST APIs
-
 ✔ ASP.NET Core
 
+✔ REST APIs
+
 ✔ Entity Framework Core
+
+✔ SQL Server
+
+✔ PostgreSQL
+
+✔ Authentication & JWT
 
 ✔ Clean Architecture
 
@@ -53,72 +51,126 @@ Currently focused on:
 
 ✔ Unit Of Work
 
-✔ JWT Authentication
-
-✔ Identity
-
-✔ PostgreSQL
-
 ✔ Docker
 
-✔ VPS Deployment
+✔ Git & GitHub
 
-✔ AWS
+✔ Linux
 
-✔ SignalR
+✔ AWS Basics
 ```
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏋️ GYM Platform
+<table>
 
-Fitness SaaS Platform for coaches and trainees.
+<tr>
 
-**Tech**
-
-ASP.NET Core • PostgreSQL • Docker • AWS
-
----
-
-## 🤖 Telegram Deployment Bot
-
-Deploy GitHub repositories directly to VPS.
-
-**Tech**
-
-Python • Docker • PostgreSQL
-
----
+<td width="50%">
 
 ## 🎬 CinemaVerse
 
-Cinema Booking Platform
-
-- QR Tickets
-- Payments
-- Admin Dashboard
+Cinema Booking Platform built with ASP.NET Core.
 
 **Tech**
 
-ASP.NET Core • SQL Server
+`ASP.NET Core` `Angular` `SQL Server`
 
----
+🔗 Repository
+
+<!-- Demo -->
+
+<!-- Screenshot -->
+
+</td>
+
+<td width="50%">
 
 ## 🩸 Blood Bank Management System
 
 Desktop application for blood bank management.
 
+**Tech**
+
+`C#` `.NET` `SQL Server`
+
+🔗 Repository
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🚗 DVLD
+
+Driving & Vehicle License Department System.
+
+**Tech**
+
+`C#` `.NET` `SQL Server`
+
+🔗 Repository
+
+</td>
+
+<td width="50%">
+
+## 👥 Team Builder
+
+Application for building and managing teams.
+
+**Tech**
+
+`ASP.NET Core`
+
+`SQL Server`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📚 Study Tracker
+
+Track study progress and organize tasks.
+
+**Tech**
+
+`ASP.NET Core`
+
+`PostgreSQL`
+
+</td>
+
+<td width="50%">
+
+## 🎉 EventHub
+
+Event Booking & Management Platform.
+
+**Tech**
+
+`ASP.NET Core`
+
+`SQL Server`
+
+</td>
+
+</tr>
+
+</table>
+
 ---
 
-## 🎓 DVLD
-
-Driving License Management System
-
----
-
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -138,17 +190,17 @@ Driving License Management System
 
 ---
 
-# 🌱 Current Focus
+## 🌱 Currently Learning
 
-- ☁️ AWS
-- 🐳 Docker
-- ⚡ Performance Optimization
-- 🏗 System Design
-- 🔐 Security Best Practices
+- Cloud Computing
+- Docker
+- AWS
+- System Design
+- Performance Optimization
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -176,6 +228,6 @@ Driving License Management System
 
 > *"First, solve the problem. Then, write the code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
