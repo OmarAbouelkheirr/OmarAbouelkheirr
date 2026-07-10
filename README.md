@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Omar%20Abouelkhier&textBg=false](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Omar%20Abouelkhier&fontSize=60&animation=fadeIn&fontAlignY=40)" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Omar%20Abouelkhier&fontSize=60&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <h1 align="center"> 
