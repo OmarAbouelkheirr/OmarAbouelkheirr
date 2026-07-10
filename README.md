@@ -1,84 +1,181 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Omar%20Abouelkhier&fontAlignY=40&fontSize=55&animation=fadeIn"/>
 
+# 👋 Hi, I'm Omar Abouelkhier
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Omar%20Abouelkhier&fontSize=60&animation=fadeIn&fontAlignY=40" />
-</p>
+### Backend Engineer • .NET Developer • SaaS Builder
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+Scalable+Backend+Systems;ASP.NET+Core+Developer;Docker+%7C+AWS+%7C+PostgreSQL;Always+Learning+Something+New"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+.NET+Developer;Building+Scalable+APIs;Docker+%7C+AWS+%7C+PostgreSQL;Always+Learning+New+Technologies" />
-</p>
+</div>
 
-## 👨‍💻 About Me
+---
 
-- 🎓 Computer Science Student
-- 💙 Backend Developer (.NET)
-- 🌍 Based in Egypt
-- 🚀 Passionate about building scalable backend systems
-- 📚 Currently learning Cloud, Docker, Kubernetes, and System Design
+# 🚀 About Me
 
-## 🛠 Tech Stack
+I'm a Computer Science student passionate about building production-ready backend systems.
 
-<p align="center">
+I enjoy designing scalable APIs, automating deployments, and transforming ideas into real SaaS products.
+
+Currently focused on:
+
+- 🏋️ Building a Fitness SaaS Platform
+- 🤖 Telegram Bots & Automation
+- 🐳 Docker & VPS Deployment
+- ☁️ AWS Cloud
+- 🏗 Clean Architecture
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=dotnet,cs,python,js,ts,postgres,mysql,redis,docker,git,github,linux,aws,vscode&perline=7"/>
-</p>
 
+</div>
 
-## 📊 GitHub Stats
+---
 
-<p align="center">
+# ⚙️ Backend Expertise
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarAbouelkheirr&show_icons=true&theme=tokyonight"/>
+```text
+✔ REST APIs
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAbouelkheirr&layout=compact&theme=tokyonight"/>
+✔ ASP.NET Core
 
-</p>
+✔ Entity Framework Core
 
+✔ Clean Architecture
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=OmarAbouelkheirr&theme=tokyonight"/>
-</p>
+✔ Repository Pattern
 
+✔ Unit Of Work
 
-## 🚀 Featured Projects
+✔ JWT Authentication
 
-### 🏋️ GYM Platform
-Fitness SaaS built with ASP.NET Core.
+✔ Identity
 
-### 🎬 CinemaVerse
-Cinema Booking System.
+✔ PostgreSQL
 
-### 🤖 Telegram Bot
-High-performance Telegram Bot using Pyrogram.
+✔ Docker
 
-### 🩸 Blood Bank Management System
-Desktop application for managing blood donations.
+✔ VPS Deployment
 
+✔ AWS
 
+✔ SignalR
+```
 
-## 🌱 Currently Working On
+---
 
-- Backend Architecture
-- Docker & Kubernetes
-- AWS
-- Clean Architecture
-- System Design
+# 🚀 Featured Projects
 
-## 📫 Connect With Me
+## 🏋️ GYM Platform
 
-<p align="left">
+Fitness SaaS Platform for coaches and trainees.
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+**Tech**
+
+ASP.NET Core • PostgreSQL • Docker • AWS
+
+---
+
+## 🤖 Telegram Deployment Bot
+
+Deploy GitHub repositories directly to VPS.
+
+**Tech**
+
+Python • Docker • PostgreSQL
+
+---
+
+## 🎬 CinemaVerse
+
+Cinema Booking Platform
+
+- QR Tickets
+- Payments
+- Admin Dashboard
+
+**Tech**
+
+ASP.NET Core • SQL Server
+
+---
+
+## 🩸 Blood Bank Management System
+
+Desktop application for blood bank management.
+
+---
+
+## 🎓 DVLD
+
+Driving License Management System
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Current Focus
+
+- ☁️ AWS
+- 🐳 Docker
+- ⚡ Performance Optimization
+- 🏗 System Design
+- 🔐 Security Best Practices
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-</p>
+</div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=OmarAbouelkheirr&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+
+</div>
