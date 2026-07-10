@@ -59,10 +59,12 @@
   </a>
 </p>
 
-https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Omar%20Abouelkhier&textBg=false
 
 ---
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Omar%20Abouelkhier&textBg=false" />
+</p>
+---
 ### 📊 إحصائيات جيتهاب | GitHub Stats:
 <div align="center">
   
