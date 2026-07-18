@@ -204,11 +204,11 @@ Event Booking & Management Platform.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/omar-abouelkhier-eg">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:omarrabouelkheir@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
